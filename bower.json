@@ -1,0 +1,51 @@
+{
+  "name": "uni-test"
+, "authors": [
+    "Baltrushaitis Tomas <tbaltrushaitis@gmail.com>"
+  ]
+, "description": "Interactive assessment functionality example"
+, "main": "index.html"
+, "keywords": [
+      "test"
+    , "survey"
+    , "assessment"
+  ]
+, "license": "MIT"
+, "homepage": "http://bit.ly/uni-test"
+, "private": true
+, "ignore": [
+      "**/.*"
+    , "node_modules"
+    , "bower_modules"
+    , "data"
+    , "src"
+  ]
+, "dependencies": {
+      "bootstrap":  "#3.3.7"
+    , "jquery":     "^3.3.1"
+    , "jquery-ui":  "^1.12.1"
+    , "underscore": "^1.8.3"
+  }
+, "overrides": {
+    "bootstrap": {
+      "main": [
+          "dist/**/*.*"
+        , "!**/*.less"
+        , "!**/npm.js"
+        , "!**/bootstrap-theme.css"
+        , "!bootstrap-theme.css"
+        , "!dist/css/bootstrap-theme.css"
+        , "!**/*.min.js"
+      ]
+    }
+  }
+, "group": {
+      "libs": [
+          "bootstrap"
+        , "jquery"
+        , "jquery-ui"
+        , "underscore"
+      ]
+    , "front": ["libs"]
+  }
+}

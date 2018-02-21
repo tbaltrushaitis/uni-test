@@ -1,0 +1,11 @@
+{   "app_url": "http://uni-test.local"
+  , "engine": {
+        "name":    "custom"
+      , "vendor":  "uni-test"
+      , "version": "0.0.1"
+      , "repository": {
+            "type": "git"
+          , "url":  "https://github.com/tbaltrushaitis/uni-test"
+        }
+    }
+}
