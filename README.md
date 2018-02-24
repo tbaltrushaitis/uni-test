@@ -3,8 +3,6 @@
 [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=plastic)](https://github.com/conventional-changelog/standard-version)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/tbaltrushaitis/uni-test/blob/master/LICENSE)
 [![Dependency Status](https://david-dm.org/tbaltrushaitis/uni-test.svg?theme=shields.io)](https://david-dm.org/tbaltrushaitis/uni-test)
-[![Build Status](https://img.shields.io/travis/tbaltrushaitis/uni-test/master.svg)](https://travis-ci.org/tbaltrushaitis/uni-test)
-[![Coverage Status](http://img.shields.io/coveralls/tbaltrushaitis/uni-test/master.svg)](https://coveralls.io/r/tbaltrushaitis/uni-test)
 [![Contributors Count](https://img.shields.io/github/contributors/tbaltrushaitis/uni-test.svg)](https://github.com/tbaltrushaitis/uni-test/graphs/contributors)
 
 ![Evaluation Logo](assets/img/banner-img.png)
