@@ -24,7 +24,8 @@ Interactive assessment example
 ### Download ###
 
 ```shell
-$ git clone https://github.com/tbaltrushaitis/uni-test.git && cd uni-test
+$ APP_NAME="uni-test" \
+&& git clone https://github.com/tbaltrushaitis/${APP_NAME}.git && cd ${APP_NAME}
 ```
 
 ### Install dependencies and build ###
